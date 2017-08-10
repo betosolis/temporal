@@ -29,6 +29,8 @@ DROP TABLE Payments;
 DROP TABLE Products;
 DROP TABLE ProductLines;
 
+
+
 /* Create the full set of Classic Models Tables */
 
 CREATE TABLE Customers (
